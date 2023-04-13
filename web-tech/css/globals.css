@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.paralax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../imagenes/fondo.jpg");
+  height: 50vh;
+}
